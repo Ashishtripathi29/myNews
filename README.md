@@ -1,3 +1,27 @@
+# going to talk about the project 
+in this project can we used for the reading the news 
+as per your choice you can choose folling type of news
+   General
+   Technology
+   Sports
+   Science
+   Health
+   Business
+   Entertainment 
+ in this project we use react js and bootstrap 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
